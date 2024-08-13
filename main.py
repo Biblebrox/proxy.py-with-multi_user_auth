@@ -21,3 +21,4 @@ if __name__ == '__main__':
                 print("Proxy остановлен")
     except Exception as e:
         print(f"Error: {e}")
+        

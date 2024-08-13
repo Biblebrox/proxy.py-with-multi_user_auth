@@ -44,4 +44,5 @@ class MultiUserAuthPlugin(HttpProxyBasePlugin):
             except Exception as e:
                 print(f"Ошибка в процессе авторизации: {e}")
         return False
+
         
